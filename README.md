@@ -1,1 +1,2 @@
-# gearbox
+# Gearbox
+![slide](slide.jpeg)
