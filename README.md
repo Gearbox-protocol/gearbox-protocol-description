@@ -89,9 +89,8 @@ architecture and features.
 - [ ] Stable coins pools
 - [ ] Yield farming implementation
 - [x] Pool profit share pool option _@done 12.03.2021_ 
-- [ ] Immutable pool config
+- [x] Immutable pool config _@done 5.03.2021_ 
 - [ ] Meta transaction interface (for limit orders and self-liquidation)
-- [ ] Brand traders pools
 - [ ] Security audit
 - [ ] Mainnet deployment
 
