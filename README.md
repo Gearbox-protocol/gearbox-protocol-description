@@ -85,11 +85,11 @@ architecture and features.
 
 #### Smart contract
 - [x] New gas efficient architecture implementation _@done 19.02.2021_ 
-- [ ] Integration with Curve.fi
+- [x] Integration with Curve.fi _@done 12.03.2021_ 
 - [ ] Stable coins pools
 - [ ] Yield farming implementation
-- [ ] Pool profit share pool option
-- [ ] 1 hr delay for all insecure operations
+- [x] Pool profit share pool option _@done 12.03.2021_ 
+- [ ] Immutable pool config
 - [ ] Meta transaction interface (for limit orders and self-liquidation)
 - [ ] Brand traders pools
 - [ ] Security audit
