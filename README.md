@@ -86,22 +86,26 @@ architecture and features.
 #### Smart contract
 - [x] New gas efficient architecture implementation _@done 19.02.2021_ 
 - [x] Integration with Curve.fi _@done 12.03.2021_ 
-- [ ] Stable coins pools
-- [ ] Yield farming implementation
+- [x] Stable coins pools _@done 31.03.2021_
 - [x] Pool profit share pool option _@done 12.03.2021_ 
 - [x] Immutable pool config _@done 5.03.2021_ 
-- [ ] Meta transaction interface (for limit orders and self-liquidation)
 - [ ] Security audit
 - [ ] Mainnet deployment
 
+V3 VERSION
+- [ ] Yield farming implementation
+- [ ] Meta transaction interface (for limit orders and self-liquidation)
+
 ### Interface
 - [x] Rebuilding interface to work properly with new architecture _@done 20.02.2021_
-- [ ] DEX switching interface
-- [ ] Swap machine improvements 
+- [x] DEX switching interface _@done 31.03.2021_
+- [x] Swap machine improvements _@done 31.03.2021_
 - [ ] Liquidations list  
-- [ ] New layout design
-- [ ] Limit orders  
+- [x] New layout design
 - [ ] Gearbox console
+
+V3 VERSION
+- [ ] Limit orders  
 
 ### Service backend
 - [x] Pools cache _@done 14.02.2021_
@@ -111,6 +115,9 @@ architecture and features.
 
 ## Contributing
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+## Licence
+UNLICENSED
 
 ## Disclaimer
 
