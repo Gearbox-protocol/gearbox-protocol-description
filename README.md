@@ -20,7 +20,7 @@ Twitter https://twitter.com/GearboxProtocol
 GitHub https://github.com/Gearbox-Protocol  
 Discord https://discord.gg/X32zUAwh  
 Telegram https://t.me/GearboxProtocol   
-Website https://gearbox.finance/  
+Website https://gearbox.fi/  
 Pitch: https://github.com/MikaelLazarev/gearbox/blob/main/pitch.pdf    
 
 Gearbox protocol is Marketmake ETHGlobal hackathon finalist.
