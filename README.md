@@ -17,11 +17,6 @@ The core vision is to become a backend leverage provider which all kinds of user
 
 Gearbox protocol is Marketmake ETHGlobal hackathon finalist.
 
-_Previous versions of the documentation or pitches you could find around could be outdated. Please see the new docs and website for the latest information. The community is always available to help out with integrations and clarifications in Discord / Twitter / all around._
-
-Join our journey and take control over the new DeFi primitive!
-
-
 Twitter https://twitter.com/GearboxProtocol  
 GitHub https://github.com/Gearbox-Protocol  
 Discord https://discord.gg/jJuABVH9Pg 
