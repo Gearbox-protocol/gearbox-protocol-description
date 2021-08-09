@@ -13,7 +13,7 @@ Gearbox does not silo the assets within its own platform. Needless to say, your 
 - arbitraging pegged assets on Curve;
 - using your DAO treasury to optimize the holdings, and more!
 
-The core vision is to become a backend leverage provider which all kinds of users have but don’t even need to interact directly with. You can envision building your own DeFi protocol and just making a “take leverage from Gearbox” as a button. And bam - your users are now more capital efficient. Or just integrate Gearbox into your platform’s UI which interacts with DeFi, like Zerion or Zapper. Join the community and take ownership of the new primitive!
+The core vision is to become a backend leverage provider which all kinds of users have but don’t even need to interact directly with. You can envision building your own DeFi protocol and just making a “take leverage from Gearbox” as a button. And bam - your users are now more capital efficient. Or just integrate Gearbox into your platform’s UI which interacts with DeFi, like Zerion or Zapper.
 
 Gearbox protocol is Marketmake ETHGlobal hackathon finalist.
 
