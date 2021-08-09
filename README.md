@@ -7,7 +7,8 @@ Gearbox is a generalized leverage protocol: it allows you to take leverage in on
 
 Gearbox aims to enhance capital efficiency in DeFi with the introduction of Credit Accounts - a new primitive for leveraged interactions with other DeFi protocols. Credit Accounts are isolated smart contracts with specific whitelisted actions and assets. Such an architecture ensures a higher degree of safety of both the user funds and the borrowed funds per account, through liquidation of a user's Credit Account portfolio under a certain health factor threshold. 
 
-
+  
+  
 ![features](docs/architecture.jpeg)
 
 Gearbox does not silo the assets within its own platform. Needless to say, your assets never end up in any custody or under anyone’s control. All trades and operations happen on third-party protocols, which could apply to:
